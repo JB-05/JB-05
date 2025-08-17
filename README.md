@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jb-05" alt="jb-05" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently focusing on  **AI/ML and Agent Development**
 
 - 📫 How to reach me **work.joelbiju@gmail.com**
 
